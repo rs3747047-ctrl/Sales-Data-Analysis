@@ -30,3 +30,7 @@ This project is built using Power BI and Microsoft Excel to analyze sales perfor
 
 ## 👨‍💻 Author
 Rohit Sharma
+
+## 📷 Dashboard Preview
+
+![Sales Dashboard](dashboard_screenshot.png)
